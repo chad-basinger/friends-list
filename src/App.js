@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       {/* Render your class component*/}
       <ClassComponent/>
-      <FuncComponent/>
+      {/*<FuncComponent/>*/}
     </div>
   );
 }
