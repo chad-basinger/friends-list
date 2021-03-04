@@ -31,7 +31,8 @@ class ClassComponent extends Component {
         //updating the friends array AND clearing the picture and name input fields
         this.setState({friends: newFriends, pictureInput: '', nameInput: '' })
     }
-
+    //this is a test line to test commits
+    
     //Step 3: Use render to display some JSX *required
     render(){
         console.log(this.state.friends)
